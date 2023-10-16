@@ -1,0 +1,23 @@
+  header {
+    background-color: #fff; /* Define a cor de fundo como branco */
+    width: 1080px;
+    height: 200px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil */
+  }
+  
+  
+
+  body{
+
+  height: 800px;
+  width: 1366px;
+  margin-top: 0px;
+  background-image: url(''); /* Define a imagem de fundo */
+  background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o corpo */
+  background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
+}
+
+.img{
+    width: 200px; /* Defina a largura desejada */
+    height: 200px; /* Defina a altura desejada */  
+}
