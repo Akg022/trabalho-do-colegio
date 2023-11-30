@@ -21,3 +21,17 @@
     width: 200px; /* Defina a largura desejada */
     height: 200px; /* Defina a altura desejada */  
 }
+
+.imagem-container {
+  display: flex;
+}
+
+.imagem-container {
+width: 300px; /* Defina a largura desejada */
+height: 300px; /* Defina a altura desejada */
+object-fit: cover; /* Mantém a proporção e corta para preencher o contêiner */
+margin-right: 25px; /* Espaço entre as imagens, ajuste conforme necessário */
+}
+
+
+
